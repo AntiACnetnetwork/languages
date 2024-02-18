@@ -51,5 +51,7 @@
   "country": "Country",
   "region": "Region",
   "timezone": "Timezone",
-  "date": "Date"
+  "date": "Date",
+  "inventory_title_select_a_reason": "Select a reason",
+  "inventory_title_reports": "Reports"
 }
