@@ -1,3 +1,10 @@
 {
-  "fetching_data": "%prefix%Fetching data..."
+  "fetching_data": "%prefix%Fetching data...",
+  "ban_info_found": "%prefix%A ban was found with this ID:",
+  "no_ban_or_mute_info_found": "%prefix%§cNo mute/ban was found with this ID!",
+  "username": "Username",
+  "from": "From",
+  "at": "At",
+  "duration": "Duration",
+  "reason": "Reason"
 }
