@@ -1,6 +1,3 @@
 {
-  "test_message_1": "Dies ist eine Testnachricht 1",
-  "test_message_2": "Dies ist eine Testnachricht 2",
-  "test_message_3": "Dies ist eine Testnachricht 3",
-  "test_message_4": "Dies ist eine Testnachricht 4"
+  "fetching_data": "Dies ist eine Testnachricht 1"
 }
