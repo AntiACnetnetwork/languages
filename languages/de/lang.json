@@ -57,5 +57,6 @@
   "state": "State",
   "created_at": "Created at",
   "reported_from": "Reported from",
-  "viewers": "Viewers"
+  "viewers": "Viewers",
+  "no_entries_found": "%prefix%§cThere are no entries to view"
 }
