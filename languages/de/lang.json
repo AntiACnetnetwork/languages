@@ -53,5 +53,9 @@
   "timezone": "Timezone",
   "date": "Date",
   "inventory_title_select_a_reason": "Select a reason",
-  "inventory_title_reports": "Reports"
+  "inventory_title_reports": "Reports",
+  "state": "State",
+  "created_at": "Created at",
+  "reported_from": "Reported from",
+  "viewers": "Viewers"
 }
