@@ -76,5 +76,10 @@
   "variants": "Variants",
   "navigator_practice_prizes": "Prize money is only given out for 1vs1 variants.",
   "playing": "playing",
-  "in_queue": "in queue"
+  "in_queue": "in queue",
+  "spectate_player": "Spectate player",
+  "watch_replay": "Watch replay",
+  "accept_report": "Accept report",
+  "decline_report": "Decline report",
+  "staff_stats": "Staff stats"
 }
