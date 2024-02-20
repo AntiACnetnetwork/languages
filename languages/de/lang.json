@@ -81,5 +81,18 @@
   "watch_replay": "Watch replay",
   "accept_report": "Accept report",
   "decline_report": "Decline report",
-  "staff_stats": "Staff stats"
+  "staff_stats": "Staff stats",
+  "report_no_longer_exist": "%prefix%§cThis report does no longer exist",
+  "inventory_title_manage_report": "Manage report",
+  "you_cant_spectate_yourself": "%prefix%§cYou can't spectate yourself!",
+  "player_not_online": "%prefix%§cThis player is currently not online.",
+  "jumping_to": "Jumping to",
+  "report_no_replay": "%prefix%§cThere is no replay for this report!",
+  "replay_preparing": "%prefix%Preparing replay...",
+  "teleport_to_player": "Teleport to player",
+  "report_information": "Report information",
+  "leave_report": "Leave report",
+  "player_no_longer_on_server": "%prefix%§c%s is no longer on this server!",
+  "report_declined": "%prefix%§7You have §cdeclined §7the report concerning §3%s!",
+  "report_accepted": "%prefix%§7You have §aaccepted §7the report concerning §3%s!"
 }
