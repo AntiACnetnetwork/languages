@@ -62,5 +62,19 @@
   "gdpr_desc_1": "§cPlease read the privacy policy thoroughly as we store your personal data!",
   "gdpr_desc_2": "§7Link to GDPR: §bhttps://store.illenium.cc/legal/privacy",
   "accept": "Accept",
-  "gdpr_failed": "§cYou must accept the General Data Protection Regulation to play on antiac.net!"
+  "gdpr_failed": "§cYou must accept the General Data Protection Regulation to play on antiac.net!",
+  "inventory_title_navigator": "Select a server",
+  "competitive_game": "Competitive Game",
+  "click_to_connect": "Click to Connect",
+  "currently_playing": "currently playing",
+  "click_to_teleport": "Click to Teleport",
+  "currently_online": "currently online",
+  "navigator_pracitce_desc_1": "§7Put your skills to the test in our arenas against",
+  "navigator_practice_desc_2": "§7other players and win great prizes every season.",
+  "navigator_practice_new_season": "§7The new season starts on",
+  "scenarios": "Scenarios",
+  "variants": "Variants",
+  "navigator_practice_prizes": "Prize money is only given out for 1vs1 variants.",
+  "playing": "playing",
+  "in_queue": "in queue"
 }
