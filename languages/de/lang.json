@@ -58,5 +58,9 @@
   "created_at": "Created at",
   "reported_from": "Reported from",
   "viewers": "Viewers",
-  "no_entries_found": "%prefix%§cThere are no entries to view"
+  "no_entries_found": "%prefix%§cThere are no entries to view",
+  "gdpr_desc_1": "§cPlease read the privacy policy thoroughly as we store your personal data!",
+  "gdpr_desc_2": "§7Link to GDPR: §bhttps://store.illenium.cc/legal/privacy",
+  "accept": "Accept",
+  "gdpr_failed": "§cYou must accept the General Data Protection Regulation to play on antiac.net!"
 }
