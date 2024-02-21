@@ -172,5 +172,11 @@
   "not_online": "Not online",
   "members": "Members",
   "deny": "Deny",
-  "your_monthly_stats": "Your monthly statistics"
+  "your_monthly_stats": "Your monthly statistics",
+  "monthly_stats": "monthly statistics",
+  "kills": "Kills",
+  "deaths": "Deaths",
+  "played_games": "Played games",
+  "won_games": "Won games",
+  "action_denied": "%prefix%§cYou can't do this action"
 }
