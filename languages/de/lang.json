@@ -246,8 +246,8 @@
   "practice_autoqueue_cancel_title_top": "§7Auto-Queue has",
   "practice_autoqueue_cancel_title_bottom": "§7been §ccancelled",
   "practice_no_season_wait_for_next": "%prefix%§cThere is no season at the moment. Wait for the next one to start!",
-  "practice_killed_by": "§f%s §7has been killed by §f%s",
-  "practice_died": "§f%s §7died",
+  "practice_killed_by": "%prefix%§f%s §7has been killed by §f%s",
+  "practice_died": "%prefix%§f%s §7died",
   "practice_remaining_hearts": "%prefix%§7Remaining hearts: §c%s§7/§c20.0❤",
   "practice_players_remaining_hearts": "%prefix%§a%s's §7remaining hearts: §c%s§7/§c20.0❤",
   "premium_user_taken_place": "%prefix%§cYou have been sent to the lobby as a premium player has taken your place",
@@ -363,5 +363,6 @@
   "team_player_not_leader": "%prefix%§cThis player is not the team leader",
   "team_cant_invite_member": "%prefix%§cYou can not invite your team member",
   "team_player_not_found": "%prefix%§cThis player is not in a team",
-  "team_size_not_identical": "%prefix%§cThe team size is not identical"
+  "team_size_not_identical": "%prefix%§cThe team size is not identical",
+  "inventory_title_select_kit": "Select a kit"
 }
