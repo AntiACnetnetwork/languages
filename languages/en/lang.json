@@ -409,5 +409,11 @@
   "friend_cmd_help_togglemessage": "Toggles private messages",
   "friend_cmd_help_togglejump": "Allows/Denys friends to jump to you",
   "friend_cmd_help_toggleonline": "Allows/Denys friends to see your online status",
-  "friend_cmd_help_favourite": "Changes the favourite status of a friend"
+  "friend_cmd_help_favourite": "Changes the favourite status of a friend",
+  "page": "Page",
+  "online_on": "Online on",
+  "offline": "Offline",
+  "last_seen_days": "Last seen %s days ago",
+  "last_seen_hours": "Last seen %s hours ago",
+  "last_seen_minutes": "Last seen %s minutes ago"
 }
