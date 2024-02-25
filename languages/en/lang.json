@@ -364,5 +364,20 @@
   "team_cant_invite_member": "%prefix%§cYou can not invite your team member",
   "team_player_not_found": "%prefix%§cThis player is not in a team",
   "team_size_not_identical": "%prefix%§cThe team size is not identical",
-  "inventory_title_select_kit": "Select a kit"
+  "inventory_title_select_kit": "Select a kit",
+  "friend_requests_toggled_true": "%prefix%§aYou will now receive requests again",
+  "friend_requests_toggled_false": "%prefix%§cYou will no longer receive requests",
+  "friend_messages_toggled_true": "%prefix%§aYou will now receive private messages again",
+  "friend_messages_toggled_false": "%prefix%§cYou will not receive private messages anymore",
+  "friend_jump_toggled_false": "%prefix%§cIt is no longer possible to jump to you",
+  "friend_jump_toggled_true": "%prefix%§aIt is now possible to jump to you again",
+  "friend_status_toggled_false": "%prefix%§cNo one can now see your online status",
+  "friend_status_toggled_true": "%prefix%§aYou can now see your online status again",
+  "friend_request_denied": "%prefix%§c%s does not want to receive any requests",
+  "friend_request_already_sent": "%prefix%§cYou have already sent %s a request",
+  "friend_already_added": "%prefix%§cYou are already friends with %s.",
+  "friend_request_sent": "%prefix%You have sent §f%s§7 a friend request.",
+  "friend_request_received": "%prefix%§f%s §7has sent you a friend request",
+  "friend_click_to_accept": "§7Click to accept the friend request",
+  "friend_click_to_deny": "§7Click to deny the friend request"
 }
