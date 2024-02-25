@@ -280,5 +280,10 @@
   "playing_now_against": "Playing now against",
   "back_to_spawn": "Back to spawn",
   "hits_distributed": "Hits distributed",
-  "critical": "critical"
+  "critical": "critical",
+  "practice_no_kit_for_type": "%prefix%§cThere are no kits for this type of game",
+  "practice_season_over": "§bThe season is over! You can look at the statistics in the menu.",
+  "enter_name_or_sneak": "%prefix%§7Please enter a valid player name or sneak to cancel",
+  "spectator": "Spectator",
+  "practice_actviate_ingame_chat": "%prefix%§cActivate the in-game chat to be able to write"
 }
