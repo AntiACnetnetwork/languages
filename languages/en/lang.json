@@ -415,5 +415,7 @@
   "offline": "Offline",
   "last_seen_days": "Last seen %s days ago",
   "last_seen_hours": "Last seen %s hours ago",
-  "last_seen_minutes": "Last seen %s minutes ago"
+  "last_seen_minutes": "Last seen %s minutes ago",
+  "friend_messages_denied": "%prefix%§c%s does not want to receive any messages",
+  "friend_reply_not_found": "%prefix%§cYou have not yet received a private message"
 }
