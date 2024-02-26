@@ -417,5 +417,7 @@
   "last_seen_hours": "Last seen %s hours ago",
   "last_seen_minutes": "Last seen %s minutes ago",
   "friend_messages_denied": "%prefix%§c%s does not want to receive any messages",
-  "friend_reply_not_found": "%prefix%§cYou have not yet received a private message"
+  "friend_reply_not_found": "%prefix%§cYou have not yet received a private message",
+  "friend_msg_received": "§8(§7MSG§8) §f%s §8» §fYou§7: %s",
+  "friend_msg_sent": "§8(§7MSG§8) §fYou §8» §f%s§7: %s"
 }
