@@ -422,5 +422,10 @@
   "friend_msg_sent": "§8(§7MSG§8) §fYou §8» §f%s§7: %s",
   "lobby_item_navigator": "Navigator",
   "lobby_item_profile": "Profile",
-  "clan_not_in_any": "%prefix%§cYou are not in any clan"
+  "clan_not_in_any": "%prefix%§cYou are not in any clan",
+  "clan_no_permission": "%prefix%§cYou do not have the permissions for that",
+  "clan_delete_confirmation": "%prefix%§eConfirm that you want to delete the clan. (Valid for 10 seconds)",
+  "clan_delete_button": "§c[DELETE]",
+  "clan_leave_failed_leader": "%prefix%§cYou are the only leader! Use /clan delete or set another player as leader",
+  "clan_left": "%prefix%§eYou have left the clan %s"
 }
