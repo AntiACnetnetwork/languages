@@ -421,5 +421,6 @@
   "friend_msg_received": "§8(§7MSG§8) §f%s §8» §fYou§7: %s",
   "friend_msg_sent": "§8(§7MSG§8) §fYou §8» §f%s§7: %s",
   "lobby_item_navigator": "Navigator",
-  "lobby_item_profile": "Profile"
+  "lobby_item_profile": "Profile",
+  "clan_not_in_any": "%prefix%§cYou are not in any clan"
 }
