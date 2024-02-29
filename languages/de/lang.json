@@ -427,5 +427,16 @@
   "clan_delete_confirmation": "%prefix%§eConfirm that you want to delete the clan. (Valid for 10 seconds)",
   "clan_delete_button": "§c[DELETE]",
   "clan_leave_failed_leader": "%prefix%§cYou are the only leader! Use /clan delete or set another player as leader",
-  "clan_left": "%prefix%§eYou have left the clan %s"
+  "clan_left": "%prefix%§eYou have left the clan %s",
+  "clan_notifications_toggled_false": "%prefix%§cYou will no longer receive clan notifications",
+  "clan_notifications_toggled_true": "%prefix%§aYou will now receive clan notifications again",
+  "clan_jump_toggled_false": "%prefix%§cClan members can no longer jump to you",
+  "clan_jump_toggled_true": "%prefix%§aClan members can now jump to you again",
+  "clan_chat_toggled_false": "%prefix%§cThe clan chat has been deactivated",
+  "clan_chat_toggled_true": "%prefix%§aThe clan chat has been activated",
+  "clan_left_target": "%prefix%§f%s §7has left the clan",
+  "clan_requests_header": "%prefix%§7Your clan invitations:",
+  "clan_delete_expired": "%prefix%§cThe link has expired! Use /clan delete again",
+  "clan_deleted": "%prefix%§cThe clan %s has been deleted by %s",
+  "color_not_exist": "%prefix%§cThis color does not exist!"
 }
