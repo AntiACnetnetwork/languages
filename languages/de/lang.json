@@ -510,5 +510,8 @@
   "clan_cmd_help_requests": "Shows you your clan requests",
   "clan_cmd_help_jump": "Jump to a clan player",
   "clan_cmd_help_togglejump": "Allow or disallow clan players to jump",
-  "clan_cmd_help_message": "Sends a message to your clan members"
+  "clan_cmd_help_message": "Sends a message to your clan members",
+  "clan_invited_target": "%prefix%§7You have been invited to join the clan §f%s",
+  "help_1": "Help 1",
+  "help_2": "Help 2"
 }
