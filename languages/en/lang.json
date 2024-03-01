@@ -464,5 +464,7 @@
   "clan_unbanned": "%prefix%§c%s has been unbanned from the clan",
   "clan_already_banned": "%prefix%§c%s is already banned from the clan",
   "clan_already_muted": "%prefix%§c%s is already muted in the clan chat",
-  "clan_muted": "%prefix%§f%s§7 has been muted in the clan chat"
+  "clan_muted": "%prefix%§f%s§7 has been muted in the clan chat",
+  "clan_not_muted": "%prefix%§c%s is not muted",
+  "clan_muted_target": "%prefix%§cYou have been muted in the clan chat of %s"
 }
