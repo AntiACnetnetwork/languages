@@ -471,5 +471,6 @@
   "clan_state_not_found": "%prefix%§cThis clan state does not exist",
   "clan_already_in_state": "%prefix%§cThe clan is already in the state %s",
   "clan_state_changed": "%prefix%§7The clan is now in the status: §f%s",
-  "clan_setting_jump_disallowed": "%prefix%§c%s does not want to be jumped to"
+  "clan_setting_jump_disallowed": "%prefix%§c%s does not want to be jumped to",
+  "clan_created": "%prefix%§7Your clan §f%s §7with the tag §f[%s] §7has been created"
 }
