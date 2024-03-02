@@ -341,7 +341,6 @@
   "inventory_title_team_menu": "Team menu",
   "team_user_kicked": "%prefix%§b%s §7has been kicked out of the team",
   "team_enter_player_name": "%prefix%Enter the player name you want to invite to your team",
-  "practice_setting_teamnvites_title": "Team Invites",
   "practice_setting_teaminvites_desc": "With this you can activate or deactivate team invitations",
   "practice_kit_team_disabled": "%prefix%§cThis kit can not be played with a team",
   "team_user_promoted_to_leader": "%prefix%§b%s §7has been set as team leader",
@@ -518,5 +517,6 @@
   "clan_unban_before": "%prefix%§cYou must unban %s before you can invite them",
   "clan_setting_chat_toggled_true": "%prefix%§aYou will now receive clan chat messages again",
   "clan_setting_chat_toggled_false": "%prefix%§cYou will no longer receive clan chat messages",
-  "clan_cmd_help_togglechat": "Activates or deactivates the clan chat"
+  "clan_cmd_help_togglechat": "Activates or deactivates the clan chat",
+  "practice_setting_teaminvites_title": "Team Invites"
 }
