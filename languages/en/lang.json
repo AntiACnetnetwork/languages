@@ -513,5 +513,6 @@
   "clan_cmd_help_message": "Sends a message to your clan members",
   "clan_invited_target": "%prefix%§7You have been invited to join the clan §f%s",
   "help_1": "Help 1",
-  "help_2": "Help 2"
+  "help_2": "Help 2",
+  "clan_chat_muted": "%prefix%§cThe clan chat is currently deactivated"
 }
