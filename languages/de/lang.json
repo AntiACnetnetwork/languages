@@ -514,5 +514,9 @@
   "clan_invited_target": "%prefix%§7You have been invited to join the clan §f%s",
   "help_1": "Help 1",
   "help_2": "Help 2",
-  "clan_chat_muted": "%prefix%§cThe clan chat is currently deactivated"
+  "clan_chat_muted": "%prefix%§cThe clan chat is currently deactivated",
+  "clan_unban_before": "%prefix%§cYou must unban %s before you can invite them",
+  "clan_setting_chat_toggled_true": "%prefix%§aYou will now receive clan chat messages again",
+  "clan_setting_chat_toggled_false": "%prefix%§cYou will no longer receive clan chat messages",
+  "clan_cmd_help_togglechat": "Activates or deactivates the clan chat"
 }
