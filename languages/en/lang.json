@@ -528,5 +528,6 @@
   "muted_players_header": "Muted players:",
   "join_request_header": "Join requests:",
   "clan_cmd_help_joinrequests": "Shows all clan join requests",
-  "clan_cmd_help_joinaccept": "Accepts a clan join request"
+  "clan_cmd_help_joinaccept": "Accepts a clan join request",
+  "clan_join_request_declined": "%prefix%§cYour clan join request for the clan %s has been declined"
 }
