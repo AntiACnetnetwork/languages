@@ -518,5 +518,15 @@
   "clan_setting_chat_toggled_true": "%prefix%§aYou will now receive clan chat messages again",
   "clan_setting_chat_toggled_false": "%prefix%§cYou will no longer receive clan chat messages",
   "clan_cmd_help_togglechat": "Activates or deactivates the clan chat",
-  "practice_setting_teaminvites_title": "Team Invites"
+  "practice_setting_teaminvites_title": "Team Invites",
+  "clan_request_received": "%prefix%§f%s §7has sent a join request for the clan",
+  "clan_request_sent": "%prefix%§7You have sent a join request for the clan §f%s",
+  "clan_request_already_sent": "%prefix%§7You have already sent a join request for the clan §f%s",
+  "clan_join_request_not_found": "%prefix%§c%s has not sent a join request",
+  "clan_join_request_accepted": "%prefix%§7Your join request for the clan §f%s §7has been accepted",
+  "banned_players_header": "Banned players:",
+  "muted_players_header": "Muted players:",
+  "join_request_header": "Join requests:",
+  "clan_cmd_help_joinrequests": "Shows all clan join requests",
+  "clan_cmd_help_joinaccept": "Accepts a clan join request"
 }
