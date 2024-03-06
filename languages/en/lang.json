@@ -536,5 +536,14 @@
   "party_created": "%prefix%§aA new party has been created!",
   "party_invited_target": "%prefix%§f%s §7has invited you to join their party",
   "party_already_in_party_yourself": "%prefix%§cYou are already in a party",
-  "party_invalid_size": "%prefix%§cPlease enter a valid party size (%s-%s)"
+  "party_invalid_size": "%prefix%§cPlease enter a valid party size (%s-%s)",
+  "public": "Public",
+  "private": "Private",
+  "party_not_in_party": "%prefix%§cYou are not in any party",
+  "party_left_target": "%prefix%§f%s §7has left the party",
+  "party_left": "%prefix%§eYou have left the party",
+  "party_not_invited_by_target": "%prefix%§c%s has not invited you to the party",
+  "party_not_in_any_party_target": "%prefix%§c%s is not in any party",
+  "party_joined": "%prefix%§f%s §7has joined the party.",
+  "party_invite_declined_target": "%prefix%§c%s has declined the party invitation"
 }
