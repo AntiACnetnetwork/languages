@@ -530,5 +530,11 @@
   "clan_cmd_help_joinrequests": "Shows all clan join requests",
   "clan_cmd_help_joinaccept": "Accepts a clan join request",
   "clan_join_request_declined": "%prefix%§cYour clan join request for the clan %s has been declined",
-  "clan_request_declined": "%prefix%§7You have declined the join request from §f%s"
+  "clan_request_declined": "%prefix%§7You have declined the join request from §f%s",
+  "party_already_in_party": "%prefix%§c%s is already in a party",
+  "party_invited": "%prefix%§7You have invited §f%s §7to your party",
+  "party_created": "%prefix%§aA new party has been created!",
+  "party_invited_target": "%prefix%§f%s §7has invited you to join their party",
+  "party_already_in_party_yourself": "%prefix%§cYou are already in a party",
+  "party_invalid_size": "%prefix%§cPlease enter a valid party size (%s-%s)"
 }
