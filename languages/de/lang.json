@@ -546,5 +546,7 @@
   "party_not_in_any_party_target": "%prefix%§c%s is not in any party",
   "party_joined": "%prefix%§f%s §7has joined the party.",
   "party_invite_declined_target": "%prefix%§c%s has declined the party invitation",
-  "party_invite_declined": "%prefix%§7You have declined the party invitation from §f%s"
+  "party_invite_declined": "%prefix%§7You have declined the party invitation from §f%s",
+  "party_not_public": "%prefix%§cThis party is not public",
+  "party_banned_yourself": "%prefix%§cYou are banned from the %s's party"
 }
