@@ -596,5 +596,8 @@
   "party_cmd_help_partychat": "Sends a message to the party members",
   "party_leave_denied": "%prefix%§cYou are a party leader. To leave the party, promote someone else to leader or delete the party with §e/party delete",
   "party_deleted": "%prefix%§cThe party was deleted by %s",
-  "party_already_invited": "%prefix%§cYou have already invited %s to your party"
+  "party_already_invited": "%prefix%§cYou have already invited %s to your party",
+  "party_chat_muted": "%prefix%§cThe party chat is currently muted",
+  "party_chat_muted_target": "%prefix%§cYou have been muted from the party chat",
+  "party_server_switch": "%prefix%§7The party enters the server §f%s"
 }
