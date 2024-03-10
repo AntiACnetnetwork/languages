@@ -565,5 +565,7 @@
   "party_muted": "%prefix%§c%s has been muted from the party chat",
   "party_muted_target": "%prefix%§cYou have been muted from the party chat",
   "party_not_muted": "%prefix%§c%s is not muted from the party chat",
-  "party_unmuted": "%prefix%§c%s has been unmuted from the party chat"
+  "party_unmuted": "%prefix%§c%s has been unmuted from the party chat",
+  "party_chat_toggled_true": "%prefix%§aThe party chat is now active",
+  "party_chat_toggled_false": "%prefix%§cThe party chat has been muted"
 }
