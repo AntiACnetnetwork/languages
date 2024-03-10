@@ -567,5 +567,6 @@
   "party_not_muted": "%prefix%§c%s is not muted from the party chat",
   "party_unmuted": "%prefix%§c%s has been unmuted from the party chat",
   "party_chat_toggled_true": "%prefix%§aThe party chat is now active",
-  "party_chat_toggled_false": "%prefix%§cThe party chat has been muted"
+  "party_chat_toggled_false": "%prefix%§cThe party chat has been muted",
+  "party_promoted": "%prefix%§f%s §7was promoted to the rank %s"
 }
