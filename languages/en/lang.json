@@ -548,5 +548,9 @@
   "party_invite_declined_target": "%prefix%§c%s has declined the party invitation",
   "party_invite_declined": "%prefix%§7You have declined the party invitation from §f%s",
   "party_not_public": "%prefix%§cThis party is not public",
-  "party_banned_yourself": "%prefix%§cYou are banned from the %s's party"
+  "party_banned_yourself": "%prefix%§cYou are banned from the %s's party",
+  "party_autoleave_toggled_false": "%prefix%§cYou will no longer be automatically removed from the round",
+  "party_autoleave_toggled_true": "%prefix%§aYou will now be automatically removed from the round again",
+  "party_public_toggled_true": "%prefix%§aThe party is now public",
+  "party_public_toggled_false": "%prefix%§cThe party is now private"
 }
