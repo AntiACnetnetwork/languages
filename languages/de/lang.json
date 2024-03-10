@@ -599,5 +599,8 @@
   "party_already_invited": "%prefix%§cYou have already invited %s to your party",
   "party_chat_muted": "%prefix%§cThe party chat is currently muted",
   "party_chat_muted_target": "%prefix%§cYou have been muted from the party chat",
-  "party_server_switch": "%prefix%§7The party enters the server §f%s"
+  "party_server_switch": "%prefix%§7The party enters the server §f%s",
+  "party_cmd_help_setsize": "Changes the size of the party",
+  "party_resize_invalid": "%prefix%§cThere are too many players in your party for this size",
+  "party_resized": "%prefix%§7The party size has been updated to §f%s"
 }
