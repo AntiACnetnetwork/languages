@@ -595,5 +595,6 @@
   "party_cmd_help_togglechat": "Toggles whether you receive party chat messages or not",
   "party_cmd_help_partychat": "Sends a message to the party members",
   "party_leave_denied": "%prefix%§cYou are a party leader. To leave the party, promote someone else to leader or delete the party with §e/party delete",
-  "party_deleted": "%prefix%§cThe party was deleted by %s"
+  "party_deleted": "%prefix%§cThe party was deleted by %s",
+  "party_already_invited": "%prefix%§cYou have already invited %s to your party"
 }
