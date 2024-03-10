@@ -593,5 +593,7 @@
   "party_cmd_help_autoleave": "Sends you to the leaders server after the round",
   "party_cmd_help_togglenotify": "Toggles party notifications",
   "party_cmd_help_togglechat": "Toggles whether you receive party chat messages or not",
-  "party_cmd_help_partychat": "Sends a message to the party members"
+  "party_cmd_help_partychat": "Sends a message to the party members",
+  "party_leave_denied": "%prefix%§cYou are a party leader. To leave the party, promote someone else to leader or delete the party with §e/party delete",
+  "party_deleted": "%prefix%§cThe party was deleted by %s"
 }
