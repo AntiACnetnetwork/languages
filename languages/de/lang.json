@@ -552,5 +552,18 @@
   "party_autoleave_toggled_false": "%prefix%§cYou will no longer be automatically removed from the round",
   "party_autoleave_toggled_true": "%prefix%§aYou will now be automatically removed from the round again",
   "party_public_toggled_true": "%prefix%§aThe party is now public",
-  "party_public_toggled_false": "%prefix%§cThe party is now private"
+  "party_public_toggled_false": "%prefix%§cThe party is now private",
+  "party_not_in_your_party_target": "%prefix%§c%s ist not in your party",
+  "party_kicked": "%prefix%§f%s §7has been kicked out of the party",
+  "party_kicked_target": "%prefix%§cYou were kicked out of the party",
+  "party_banned": "%prefix%§c%s was banned from the party",
+  "party_banned_target": "%prefix%§cYou were banned from the party",
+  "party_not_banned": "%prefix%§c%s is not banned from your party",
+  "party_unbanned": "%prefix%§f%s §7has been unbanned from the party",
+  "party_already_banned": "%prefix%§c%s is already banned from the party",
+  "party_already_muted": "%prefix%§c%s is already muted from the party",
+  "party_muted": "%prefix%§c%s has been muted from the party chat",
+  "party_muted_target": "%prefix%§cYou have been muted from the party chat",
+  "party_not_muted": "%prefix%§c%s is not muted from the party chat",
+  "party_unmuted": "%prefix%§c%s has been unmuted from the party chat"
 }
