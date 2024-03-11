@@ -605,5 +605,6 @@
   "party_resized": "%prefix%§7The party size has been updated to §f%s",
   "no_friends_online": "%prefix%§cThere are currently no friends online",
   "many_friends_online": "%prefix%§7At the moment your friends §f%s §7are online",
-  "and_number_more": "and %s more"
+  "and_number_more": "and %s more",
+  "clan_members_online": "%prefix%§7At the moment §f%s §7clan members are online"
 }
