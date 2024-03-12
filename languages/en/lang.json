@@ -607,5 +607,7 @@
   "many_friends_online": "%prefix%§7At the moment your friends §f%s §7are online",
   "and_number_more": "and %s more",
   "one_friend_online": "%prefix%§7At the moment only your friend §f%s §7is online",
-  "no_clan_members_online": "%prefix%§cThere are currently no clan members online"
+  "no_clan_members_online": "%prefix%§cThere are currently no clan members online",
+  "one_clan_member_online": "%prefix%§7At the moment only §f%s §7 from your clan is online",
+  "many_clan_members_online": "%prefix%§7At the moment your clan members §f%s §7are online"
 }
