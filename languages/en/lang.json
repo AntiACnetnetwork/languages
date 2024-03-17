@@ -620,5 +620,6 @@
   "inventory_title_friends": "Friend menu",
   "inventory_title_party": "Party menu",
   "inventory_title_clan": "Clan menu",
-  "inventory_title_public_parties": "Public parties"
+  "inventory_title_public_parties": "Public parties",
+  "no_entries_found_item": "No enties found..."
 }
