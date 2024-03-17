@@ -614,5 +614,6 @@
   "friend_now_offline": "%prefix%§7Your friend §f%s §7is now §coffline",
   "friend_requests": "Friend-Requests",
   "friend_cmd_help_requests": "Shows your friend requests",
-  "pending_friend_requests": "%prefix%§7You currently have §f%s §7open friend request(s)"
+  "pending_friend_requests": "%prefix%§7You currently have §f%s §7open friend request(s)",
+  "filter_list": "Filter-List"
 }
