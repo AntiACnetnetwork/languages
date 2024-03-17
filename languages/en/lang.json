@@ -616,5 +616,9 @@
   "friend_cmd_help_requests": "Shows your friend requests",
   "pending_friend_requests": "%prefix%§7You currently have §f%s §7open friend request(s)",
   "filter_list": "Filter-List",
-  "lobby_item_nicktool": "Nick-Tool"
+  "lobby_item_nicktool": "Nick-Tool",
+  "inventory_title_friends": "Friend menu",
+  "inventory_title_party": "Party menu",
+  "inventory_title_clan": "Clan menu",
+  "inventory_title_public_parties": "Public parties"
 }
