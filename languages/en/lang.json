@@ -615,5 +615,6 @@
   "friend_requests": "Friend-Requests",
   "friend_cmd_help_requests": "Shows your friend requests",
   "pending_friend_requests": "%prefix%§7You currently have §f%s §7open friend request(s)",
-  "filter_list": "Filter-List"
+  "filter_list": "Filter-List",
+  "lobby_item_nicktool": "Nick-Tool"
 }
