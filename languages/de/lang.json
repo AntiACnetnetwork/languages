@@ -436,7 +436,7 @@
   "clan_left_target": "%prefix%§f%s §7has left the clan",
   "clan_requests_header": "%prefix%§7Your clan invitations:",
   "clan_delete_expired": "%prefix%§cThe link has expired! Use /clan delete again",
-  "clan_deleted": "%prefix%§cThe clan %s has been deleted by %s",
+  "clan_deleted": "%prefix%§cThe clan %s §chas been deleted by %s",
   "color_not_exist": "%prefix%§cThis color does not exist!",
   "clan_color_changed": "%prefix%§7The clan color has been set to %s",
   "clan_already_in_a_clan": "%prefix%§cYou are already in a clan",
