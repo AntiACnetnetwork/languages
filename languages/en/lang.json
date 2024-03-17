@@ -621,5 +621,19 @@
   "inventory_title_party": "Party menu",
   "inventory_title_clan": "Clan menu",
   "inventory_title_public_parties": "Public parties",
-  "no_entries_found_item": "No enties found..."
+  "no_entries_found_item": "No entries found...",
+  "inventory_title_settings_clan": "Clan settings",
+  "inventory_title_settings_friend": "Friend settings",
+  "inventory_title_settings_party": "Party settings",
+  "inventory_title_settings_language": "Languages",
+  "friend_settings_item_requests": "Friend requests",
+  "friend_settings_item_messages": "Private messages",
+  "friend_settings_item_jumping": "Friend jumping",
+  "friend_settings_item_status": "Online status",
+  "clan_settings_item_requests": "Clan requests",
+  "clan_requests_denied": "%prefix%§c%s does not want to receive clan requests",
+  "party_requests_denied": "%prefix%§c%s does not want to receive party requests",
+  "clan_settings_item_notifications": "Clan notifications",
+  "clan_settings_item_chat": "Clan chat",
+  "clan_settings_item_jumping": "Clan jumping"
 }
