@@ -635,5 +635,8 @@
   "party_requests_denied": "%prefix%§c%s does not want to receive party requests",
   "clan_settings_item_notifications": "Clan notifications",
   "clan_settings_item_chat": "Clan chat",
-  "clan_settings_item_jumping": "Clan jumping"
+  "clan_settings_item_jumping": "Clan jumping",
+  "party_settings_item_requests": "Party requestes",
+  "party_settings_item_notifications": "Party notifications",
+  "party_settings_item_chat": "Party chat"
 }
