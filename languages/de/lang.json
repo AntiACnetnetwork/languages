@@ -640,5 +640,10 @@
   "party_settings_item_notifications": "Party notifications",
   "party_settings_item_chat": "Party chat",
   "language_name": "Deutsch",
-  "language_changed": "%prefix%The language has been changed to §f%s"
+  "language_changed": "%prefix%The language has been changed to §f%s",
+  "inventory_title_settings_friend_target": "Settings for",
+  "friend_setting_item_invite_to_clan": "Invite to clan",
+  "friend_setting_item_remove_friend": "Remove friend",
+  "friend_setting_item_remove_favourite": "Remove from favourites",
+  "friend_setting_item_add_favourite": "Add to favourites"
 }
