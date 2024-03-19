@@ -649,5 +649,6 @@
   "inventory_title_settings_party_target": "Party settings for",
   "party_inventory_item_promote": "Promote player",
   "party_inventory_item_demote": "Demote player",
-  "party_inventory_item_kick": "Kick player"
+  "party_inventory_item_kick": "Kick player",
+  "public_parties_item_element": "Party of"
 }
