@@ -647,12 +647,13 @@
   "friend_setting_item_remove_favourite": "Remove from favourites",
   "friend_setting_item_add_favourite": "Add to favourites",
   "inventory_title_settings_party_target": "Party settings for",
-  "party_inventory_item_promote": "Promote player",
-  "party_inventory_item_demote": "Demote player",
-  "party_inventory_item_kick": "Kick player",
   "public_parties_item_element": "Party of",
-  "party_inventory_item_ban": "Ban player",
-  "party_inventory_item_unban": "Unban player",
-  "party_inventory_item_mute": "Mute player",
-  "party_inventory_item_unmute": "Unmute player"
+  "party_clan_inventory_item_promote": "Promote player",
+  "party_clan_inventory_item_demote": "Demote player",
+  "party_clan_inventory_item_kick": "Kick player",
+  "party_clan_inventory_item_unban": "Unban player",
+  "party_clan_inventory_item_ban": "Ban player",
+  "party_clan_inventory_item_unmute": "Unmute player",
+  "party_clan_inventory_item_mute": "Mute player",
+  "inventory_title_settings_clan_target": "Clan settings for"
 }
