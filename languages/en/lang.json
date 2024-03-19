@@ -645,5 +645,9 @@
   "friend_setting_item_invite_to_clan": "Invite to clan",
   "friend_setting_item_remove_friend": "Remove friend",
   "friend_setting_item_remove_favourite": "Remove from favourites",
-  "friend_setting_item_add_favourite": "Add to favourites"
+  "friend_setting_item_add_favourite": "Add to favourites",
+  "inventory_title_settings_party_target": "Party settings for",
+  "party_inventory_item_promote": "Promote player",
+  "party_inventory_item_demote": "Demote player",
+  "party_inventory_item_kick": "Kick player"
 }
