@@ -650,5 +650,9 @@
   "party_inventory_item_promote": "Promote player",
   "party_inventory_item_demote": "Demote player",
   "party_inventory_item_kick": "Kick player",
-  "public_parties_item_element": "Party of"
+  "public_parties_item_element": "Party of",
+  "party_inventory_item_ban": "Ban player",
+  "party_inventory_item_unban": "Unban player",
+  "party_inventory_item_mute": "Mute player",
+  "party_inventory_item_unmute": "Unmute player"
 }
