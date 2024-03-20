@@ -658,5 +658,6 @@
   "inventory_title_settings_clan_target": "Clan settings for",
   "friend_setting_item_jump_friend": "Jump to friend",
   "friend_setting_item_invite_to_party": "Invite to party",
-  "inventory_title_accept_deny": "Accept or deny?"
+  "inventory_title_accept_deny": "Accept or deny?",
+  "clan_already_invited": "%prefix%§7You have already invited §f%s §7to your clan"
 }
