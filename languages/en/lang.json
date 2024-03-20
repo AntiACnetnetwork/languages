@@ -660,5 +660,6 @@
   "friend_setting_item_invite_to_party": "Invite to party",
   "inventory_title_accept_deny": "Accept or deny?",
   "clan_already_invited": "%prefix%§7You have already invited §f%s §7to your clan",
-  "language": "Language"
+  "language": "Language",
+  "team_notify": "Team Notifications"
 }
