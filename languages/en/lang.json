@@ -661,5 +661,7 @@
   "inventory_title_accept_deny": "Accept or deny?",
   "clan_already_invited": "%prefix%§7You have already invited §f%s §7to your clan",
   "language": "Language",
-  "team_notify": "Team Notifications"
+  "team_notify": "Team Notifications",
+  "nick_tool_toggled_true": "%prefix%§aThe nick tool is now active",
+  "nick_tool_toggled_false": "%prefix%§cThe nick tool is now inactive"
 }
