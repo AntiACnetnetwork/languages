@@ -666,5 +666,6 @@
   "nick_tool_toggled_false": "%prefix%§cThe nick tool is now inactive",
   "nick_tool_name_received": "%prefix%§7Your nickname will be §f%s",
   "lobby_item_cooldown": "%prefix%§cPlease wait before using this item again",
-  "nick_not_nicked": "%prefix%§cYou are not nicked"
+  "nick_not_nicked": "%prefix%§cYou are not nicked",
+  "nick_unnicked": "%prefix%§7You are no longer nicked"
 }
