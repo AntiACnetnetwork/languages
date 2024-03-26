@@ -199,7 +199,6 @@
   "decrease": "Decrease",
   "increase": "Increase",
   "left_click": "Leftclick",
-  "right_click": "Rightclick",
   "current_value": "Current value",
   "soon": "Soon",
   "settings": "Settings",
@@ -668,5 +667,8 @@
   "lobby_item_cooldown": "%prefix%§cPlease wait before using this item again",
   "nick_not_nicked": "%prefix%§cYou are not nicked",
   "nick_unnicked": "%prefix%§7You are no longer nicked",
-  "validated": "Validated"
+  "validated": "Validated",
+  "ffa_item_map_voting": "Map voting",
+  "ffa_item_kit_voting": "Kit voting",
+  "ffa_item_kit_sortings": "Kit sortings"
 }
