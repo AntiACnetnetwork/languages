@@ -672,5 +672,8 @@
   "ffa_item_kit_voting": "Kit voting",
   "ffa_item_kit_sortings": "Kit sortings",
   "ffa_item_leave": "Back to hub",
-  "inventory_title_sort_kit": "Sort your kit"
+  "inventory_title_sort_kit": "Sort your kit",
+  "click_to_sort": "Click to sort the inventory",
+  "ffa_kit_change_in_seconds": "%prefix%§7Kit change will be in §f%s §7seconds",
+  "ffa_kit_changed": "%prefix%§7Kit has been changed to §3%s"
 }
