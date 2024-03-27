@@ -671,5 +671,6 @@
   "ffa_item_map_voting": "Map voting",
   "ffa_item_kit_voting": "Kit voting",
   "ffa_item_kit_sortings": "Kit sortings",
-  "ffa_item_leave": "Back to hub"
+  "ffa_item_leave": "Back to hub",
+  "inventory_title_sort_kit": "Sort your kit"
 }
