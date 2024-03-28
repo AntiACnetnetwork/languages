@@ -679,5 +679,6 @@
   "next_in": "Next in",
   "ffa_voting_disabled": "%prefix%§cThis voting is currently deactivated",
   "ffa_map_changed": "%prefix%§7The map was changed to §3%s",
-  "ffa_map_change_in_seconds": "%prefix%§7Map change will be in §f%s §7seconds"
+  "ffa_map_change_in_seconds": "%prefix%§7Map change will be in §f%s §7seconds",
+  "points": "Points"
 }
