@@ -676,5 +676,6 @@
   "click_to_sort": "Click to sort the inventory",
   "ffa_kit_change_in_seconds": "%prefix%§7Kit change will be in §f%s §7seconds",
   "ffa_kit_changed": "%prefix%§7Kit has been changed to §3%s",
-  "next_in": "Next in"
+  "next_in": "Next in",
+  "ffa_voting_disabled": "%prefix%§cThis voting is currently deactivated"
 }
